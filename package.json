@@ -1,0 +1,17 @@
+{
+    "license": "Mozilla Public License (MPL) 2.0", 
+    "description": "Flypaper consists of strings or regular expressions to which matching pages stick in the form of bookmarks.", 
+    "contributors": [], 
+    "author": "Lorraine Lee", 
+    "url": "", 
+    "dependencies": [
+        "api-utils", 
+        "addon-kit"
+    ], 
+    "version": "0.1.2", 
+    "lib": "lib", 
+    "fullName": "Bookmark Flypaper", 
+    "main": "main", 
+    "id": "jid1-A0D6YBdWyTklQg", 
+    "name": "flypaper"
+}
